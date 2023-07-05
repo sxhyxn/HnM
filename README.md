@@ -1,3 +1,8 @@
+# json 올리는법
+
+    https://my-json-server.typicode.com/
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
